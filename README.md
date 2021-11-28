@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=What-a-stupid-username&show_icons=true)
-
 🔭 I’m currently working on Compute Graphics.
 
 📫 How to reach me: 568246876@qq.com
+
+![github stats](https://github-readme-stats.vercel.app/api?username=What-a-stupid-username&show_icons=true)
 <!--
 **What-a-stupid-username/What-a-stupid-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
