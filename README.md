@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Compute Graphics.
+🔭 I’m currently working on Computer Graphics.
 
 📫 How to reach me: 568246876@qq.com
 
